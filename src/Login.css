@@ -1,0 +1,25 @@
+.container{
+    margin:40px auto;
+    padding:50px;
+    border:1px ;
+    background-color: rgb(136, 240, 240);
+    text-align: center;
+
+}
+input{
+   border-radius: 5px;
+   height: 30px;
+
+}
+#buttonfix {
+  margin-top: 20px;
+  width: 75%;
+  padding: 12px;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: #517c93;
+  color: rgb(41, 39, 39);
+  border: none;
+  border-radius: 8px;
+}
+

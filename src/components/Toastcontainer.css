@@ -1,0 +1,13 @@
+
+ .styl{
+     position: fixed;
+     top : 20px;
+     right: 20px;
+     background-color:black;
+     color: #fff;
+     padding: 12px 24px;
+     border-radius: 8px;
+     z-index: 9999;
+     font-size: large;
+    
+ }

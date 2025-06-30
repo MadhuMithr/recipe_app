@@ -1,0 +1,32 @@
+button{
+  margin-top: 30px;
+  margin-left: 10px;
+  height: 1.25cm;
+  width: 6.5cm;
+    background-color: rgb(39, 83, 83);
+    color: white;
+    font-size: large;
+    border-radius: 5px;
+}
+#meal-name{
+    color: rgb(51, 114, 173)
+}
+.main{
+  background-color:rgb(61, 162, 162);
+  height: 100vh;
+
+  border-radius: 10px;
+  margin: 0px 490px; 
+}
+img{
+    margin-left: 30px;
+    width: 400px;
+
+}
+.list-details
+{
+    background-color:rgb(61, 162, 162);
+}
+.search-page{
+  margin-bottom: 100px;
+}

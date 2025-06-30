@@ -1,0 +1,130 @@
+/* .container {
+  border:#005fa3;
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #7dc4dc;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 60%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  border:#0077cc
+}
+
+button {
+  padding: 10px 20px;
+  margin-left: 10px;
+  background-color: #45c6f1;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+
+.meal {
+  margin-top: 30px;
+  text-align: left;
+}
+
+.meal img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+.meal h2 {
+  margin-top: 0;
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  padding: 4px 0;
+  font-size: 16px;
+} */
+.container{
+
+  background-color:rgb(61, 162, 162);
+
+   margin: auto;
+  height: 100%;
+  width: 700px;
+  border-radius: 10px;
+  
+  /* margin: 0px 990px;  */
+  
+}
+input{
+  height: 1cm;
+  margin-top: 10px;
+  width: 350px;
+  background-color: azure;
+}
+button{
+  margin-top: 10px;
+  margin-left: 10px;
+  height: 1.25cm;
+  width: 2.5cm;
+    background-color: rgb(39, 83, 83);
+    color: white;
+    font-size: large;
+    border-radius: 5px;
+}
+.meals{
+  margin-right: 150px; 
+}
+img{
+  height:10cm;
+  
+}
+.item-meal{
+  
+  width: 140%;
+  margin-right:60px;
+  background-color:rgb(61, 162, 162);
+  
+}
+.view-recipe-but{
+  height: 1.25cm;
+  width: 2.5cm;
+    background-color: rgb(39, 83, 83);
+    color: white;
+    font-size: large;
+    border-radius: 5px;
+}
+.button-group{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+.button-group-bottom{
+   display: flex;
+  justify-content: center;
+  flex-wrap: wrap; 
+}
+.but-grp{
+margin-left: 50px;
+  
+
+}
+#img-inst{
+  margin-left: 80px;
+}
